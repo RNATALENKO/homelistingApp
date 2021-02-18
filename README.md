@@ -1,0 +1,2 @@
+# homelistingApp
+This app is a full stack application which lists homes, prices, details, and allows you to create listings, which interacts with an express.js built API, a native front end, register login validation, custom form validation, and the express validator for the server side, and performs the basic crud operations using the express router to better organize the routes, as well as bottom tabs, and stack navigation. This was a tutorial series from Udemy, from Obot Kingsley. 
